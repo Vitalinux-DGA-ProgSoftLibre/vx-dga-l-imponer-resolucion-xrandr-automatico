@@ -1,0 +1,5 @@
+vx-dga-l-imponer-resolucion-xrandr-automatico (1.0-1) unstable; urgency=low
+
+  * Se impone la resolución para PCS de aula del Tubalcain
+
+ -- Arturo Martín Romero <amartinromero@gmail.com>  Mon, 6 Mar 2017 08:39:06 +0200

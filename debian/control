@@ -1,0 +1,13 @@
+Source: vx-dga-l-imponer-resolucion-xrandr-automatico
+Section: utils
+Priority: extra
+Maintainer: Arturo Martín Romero <amartinromero@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/vitalinux
+
+Package: vx-dga-l-imponer-resolucion-xrandr-automatico
+Architecture: all
+Depends: ${misc:Depends}
+Description: Impone la resolución deseada en los equipos
+ Impone la resolucion deseada en los equipos, bien indicada como parámetro o a través de etiquetas migasfree

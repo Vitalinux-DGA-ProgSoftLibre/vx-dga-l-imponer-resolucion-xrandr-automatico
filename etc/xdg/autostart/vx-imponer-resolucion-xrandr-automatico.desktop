@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+#Exec=sudo /sbin/start-stop-daemon --start --oknodo --quiet -b --exec ...
+Exec=/sbin/start-stop-daemon --start --oknodo --quiet -b --exec /usr/bin/vx-imponer-resolucion-xrandr-automatico.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[es_ES]=vx-imponer-resolucion-xrandr-automatico.desktop
+Name=vx-imponer-resolucion-xrandr-automatico
+Comment[es_ES]=Impone resolución elegida
+Comment=Monta alumnos
